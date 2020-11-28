@@ -10,16 +10,10 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: blackhac0524@gmail.com
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/nutuniv
 organizations:
   - name: Tsinghua University
     url: https://www.tsinghua.edu.cn/
@@ -38,4 +32,4 @@ user_groups:
   - Graduate Students
 highlight_name: false
 ---
-I am a graduate student of artificial intelligence at the Tsinghua University. My research interests include object detect and instance segmentation.
+I am a graduate student of artificial intelligence at the Tsinghua University. My research interests include object detection and instance segmentation.
