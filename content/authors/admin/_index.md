@@ -22,7 +22,7 @@ education:
     - course: MEng in Artificial Intelligence
       institution: Tsinghua University
       year: 2020
-    - course: BSc in EE
+    - course: BSc in Electronic Engineering
       institution: Huazhong University of science and technology
       year: 2016
 email: lgq20@mails.tsinghua.edu.cn
